@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934176352606",
+    "project_id": "mychatly-7780d",
+    "storage_bucket": "mychatly-7780d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934176352606:android:4cecf76b2fbef0ca6547cf",
+        "android_client_info": {
+          "package_name": "com.vivekKr.mychatly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934176352606-g63jr18p67uhdclrp4tef9dq6g08t1sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTm6p4iaYeGGXrGUqkwkcUell6V0XR-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934176352606-g63jr18p67uhdclrp4tef9dq6g08t1sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
